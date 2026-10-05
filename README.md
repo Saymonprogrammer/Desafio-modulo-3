@@ -1,0 +1,1 @@
+Para executar o projeto, clique em "open" no intellij e selecione a pasta do projeto. Para executar basta clicar no botão "Executar" (triângulo verde no topo de sua tela). Ou basta abrir a pasta "SRC" e executar o "Main".
